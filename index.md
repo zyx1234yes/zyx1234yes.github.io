@@ -15,4 +15,4 @@
 ### RESEARCH INTERESTS
 - Natural language processing
 - Medical text processing
-- Disease prediction.
+- Disease prediction
