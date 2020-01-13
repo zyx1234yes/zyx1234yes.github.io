@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+
 ### RESEARCH INTERESTS
 - Natural language processing
 - Medical text processing
